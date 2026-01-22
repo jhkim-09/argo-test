@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: hello-world
-          image: kimjuhyo/k8s:8
+          image: kimjuhyo/k8s:9
           ports:
             - containerPort: 8080
